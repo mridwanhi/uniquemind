@@ -2,7 +2,7 @@
 
 ## Diagram Flow
 
-https://raw.githubusercontent.com/ubchecker/uniquemind/Untitled%20Diagram.png
+https://raw.githubusercontent.com/ubchecker/uniquemind/blob/master/Untitled%20Diagram.png
 
 
 ## Aktifitas Client dan Server
