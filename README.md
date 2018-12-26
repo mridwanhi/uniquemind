@@ -146,7 +146,7 @@ Secara otomatis, proses **UniqueBrain.Scrapper.exe** akan mencari dari internet 
 
 Berikut adalah *Schema* dari input file yang akan diberikan ke proses web crawler :
 
-```json
+```
 {
   // default engine yang akan digunakan
   "Engine" : "Google|Bing|DuckDuckGo|Scholar...",
@@ -332,7 +332,7 @@ Berikut adalah *Schema* dari input file yang akan diberikan ke proses web crawle
 2. `Contents->PDF` : Jika opsi `fetch` digunakan dan ditemukan file PDF yang dapat di-download. Maka field ini berisikan `BASE-64` string dari binary dokumen PDF yang sudah di-download.
 
 
-====================================================================================================================================
+=================================================================================
 
 Setelah kedua proses diatas selesai, maka hasil output akhir akan dikembalikan ke client lagi sebagai response dari `HTTP-POST` yang diawal dikirim oleh client.
 
