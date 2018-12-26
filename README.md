@@ -3,7 +3,7 @@
 ## Diagram Flow
 
 
-![Alt text](Untitled Diagram.png?raw=true "Title")
+![Diagram](Untitled Diagram.png)
 
 
 ## Aktifitas Client dan Server
