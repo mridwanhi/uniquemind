@@ -1,5 +1,10 @@
 # Pembuatan REST-API dan Server UniqueMind
 
+## Diagram Flow
+
+![alt text](https://raw.githubusercontent.com/ubchecker/uniquemind/Untitled Diagram.png)
+
+
 ## Aktifitas Client dan Server
 
 Client akan mengirimkan **HTTP-POST**  request ke server dengan data berikut :
