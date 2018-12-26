@@ -3,7 +3,7 @@
 ## Diagram Flow
 
 
-[Diagram](uniquemind/Untitled Diagram.png)
+![Alt text](Untitled Diagram.png?raw=true "Title")
 
 
 ## Aktifitas Client dan Server
